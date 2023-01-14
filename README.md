@@ -2,9 +2,9 @@
 
 package com.greedy.section01.array.level02.normal;
 
-import java.util.Scanner;
+	import java.util.Scanner;
 
-public class Application1 {
+	public class Application1 {
 
 	public static void main(String[] args) {
 		
