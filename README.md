@@ -1,6 +1,6 @@
 # Array-practice
 
-package com.greedy.section01.array.level02.normal;
+	package com.greedy.section01.array.level02.normal;
 
 	import java.util.Scanner;
 
@@ -47,4 +47,4 @@ package com.greedy.section01.array.level02.normal;
 		
 	}
 
-}
+	}
